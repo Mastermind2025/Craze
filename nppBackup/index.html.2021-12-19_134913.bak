@@ -43,7 +43,7 @@ in the world of telecommunications
 					
 					</div>
 				</div>
-				<img class='header__image' src='img/header-iphone.png' alt=''>
+				<img class='header__image' src='img/header-iphone.png' >
 				
 			</div>
 		</div>
@@ -59,7 +59,7 @@ nominavi. Est habemus maiestatis ut. Vim quod elitr interesset ea.
 				
 				<div class='features__feature'>	
 					<div class='feature'>
-						<img src='img/FlatDesign.png' class='feature__icon' alt=''>
+						<img src='img/FlatDesign.png' class='feature__icon'>
 						<div class='feature__title'>Flat Design</div>
 						<div class='feature__text'>
 Lorem ipsum dolor sit amet, consectetur
@@ -70,7 +70,7 @@ adipiscing elit. Suspendisse fringilla.
 				
 				<div class='features__feature'>	
 					<div class='feature'>
-						<img src='img/Marketable.png' class='feature__icon' alt=''>
+						<img src='img/Marketable.png' class='feature__icon'>
 						<div class='feature__title'>Marketable</div>
 						<div class='feature__text'>
 Lorem ipsum dolor sit amet, consectetur
@@ -81,7 +81,7 @@ adipiscing elit. Suspendisse fringilla.
 				
 				<div class='features__feature'>	
 					<div class='feature'>
-						<img src='img/EditPhotos.png' class='feature__icon' alt=''>
+						<img src='img/EditPhotos.png' class='feature__icon'>
 						<div class='feature__title'>Edit Photos</div>
 						<div class='feature__text'>
 Lorem ipsum dolor sit amet, consectetur
@@ -92,7 +92,7 @@ adipiscing elit. Suspendisse fringilla.
 				
 				<div class='features__feature'>	
 					<div class='feature'>
-						<img src='img/EditColors.png' class='feature__icon' alt=''>
+						<img src='img/EditColors.png' class='feature__icon'>
 						<div class='feature__title'>Edit colors</div>
 						<div class='feature__text'>
 Lorem ipsum dolor sit amet, consectetur
@@ -103,7 +103,7 @@ adipiscing elit. Suspendisse fringilla.
 				
 				<div class='features__feature'>	
 					<div class='feature'>
-						<img src='img/UserFriendly.png' class='feature__icon' alt=''>
+						<img src='img/UserFriendly.png' class='feature__icon'>
 						<div class='feature__title'>User Friendly</div>
 						<div class='feature__text'>
 Lorem ipsum dolor sit amet, consectetur
@@ -114,7 +114,7 @@ adipiscing elit. Suspendisse fringilla.
 				
 				<div class='features__feature'>	
 					<div class='feature'>
-						<img src='img/Editable.png' class='feature__icon' alt=''>
+						<img src='img/Editable.png' class='feature__icon'>
 						<div class='feature__title'>100% Editable</div>
 						<div class='feature__text'>
 Lorem ipsum dolor sit amet, consectetur
@@ -149,7 +149,7 @@ id sollicitudin ante lobortis at.</p>
 				</div>
 				
 				<div class='about__video'>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRkWHu0dSXw"></iframe>			
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRkWHu0dSXw" frameborder="0" allowfullscreen></iframe>			
 				</div>
 				
 			</div>
